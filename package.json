@@ -1,0 +1,11 @@
+{
+  "name": "commonjs-set",
+  "version": "1.0.6",
+  "description": "常用的js集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coderzb",
+  "license": "ISC"
+}
